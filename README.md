@@ -1,9 +1,5 @@
 # Patreon Content Viewer & Post Archiver Tool
 
-[![Platform](https://shields.io)]()
-[![Status](https://shields.io)]()
-[![License](https://shields.io)]()
-
 Welcome to the ultimate **Patreon Viewer** and content recovery utility. This open-source tool is designed for research, archiving, and unlocking local access to media posts, images, and text updates from your favorite creators. 
 
 If you need a reliable **Patreon post viewer** to manage creator updates offline, backup paid attachments, or view full-size gallery images without interface restrictions, this automated toolkit provides a seamless solution. It acts as a local mirror client, allowing you to bypass connection drops and easily view structured creator feeds.
